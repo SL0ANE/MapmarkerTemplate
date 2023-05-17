@@ -1,0 +1,6 @@
+{
+    "parent": "custom:item/icon",
+    "textures": {
+        "0": "custom:item/icons/0"
+    }
+}

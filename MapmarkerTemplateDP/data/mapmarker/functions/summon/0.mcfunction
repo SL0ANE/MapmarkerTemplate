@@ -1,0 +1,1 @@
+execute summon item_display run function mapmarker:summon/zzz/0
